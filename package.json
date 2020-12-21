@@ -1,6 +1,6 @@
 {
   "name": "html-element-attributes-typescript",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Map of HTML attributes, grouped by HTML Element, written as a Typescript Namespace",
   "main": "lib/EnumHtmlAttributes.js",
   "keywords": [
@@ -19,5 +19,9 @@
     "lib/**/*.js",
     "lib/**/*.ts",
     "!/node_modules"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sevenq42/html-element-attributes-typescript"
+  }
 }
